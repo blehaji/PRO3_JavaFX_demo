@@ -1,0 +1,23 @@
+#cookieButton {
+    -fx-background-image: url("img/cookie.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+    -fx-background-color: rgba(0, 0, 0, 0);
+
+    -fx-min-width: 256;
+    -fx-min-height: 256;
+
+    -fx-text-fill: rgba(0, 0, 0, 0);
+}
+
+.background {
+    -fx-background-image: url("img/background.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+Label {
+    -fx-font-size: 16;
+    -fx-font-weight: bold;
+}
